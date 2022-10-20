@@ -1,0 +1,15 @@
+D:\Projects\HIiLo\HIiLo\bin\Debug\net6.0\HiLo.exe
+D:\Projects\HIiLo\HIiLo\bin\Debug\net6.0\HiLo.deps.json
+D:\Projects\HIiLo\HIiLo\bin\Debug\net6.0\HiLo.runtimeconfig.json
+D:\Projects\HIiLo\HIiLo\bin\Debug\net6.0\HiLo.dll
+D:\Projects\HIiLo\HIiLo\bin\Debug\net6.0\HiLo.pdb
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.csproj.AssemblyReference.cache
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.AssemblyInfoInputs.cache
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.AssemblyInfo.cs
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.csproj.CoreCompileInputs.cache
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.dll
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\refint\HiLo.dll
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.pdb
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\HiLo.genruntimeconfig.cache
+D:\Projects\HIiLo\HIiLo\obj\Debug\net6.0\ref\HiLo.dll
